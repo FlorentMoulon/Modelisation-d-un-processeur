@@ -100,7 +100,6 @@ F5: ADDi R2 R2 1
 - Aurélien Boissot 
 - Nathan Bonada 
 - Luc Brun
-- Damien Laqueuvre
 - Florent Moulon 
 
 Sur la base d'un prototype de Théo Pierron
